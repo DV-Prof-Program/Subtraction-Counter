@@ -1,0 +1,3 @@
+# Subtraction-Counter
+# The Subtraction Counter (aka the recursion project from my Advanced Java class) takes in two integers, an initial integer referred to as start, and an integer to subtract referred to as sub.
+# The program then recursively calls the countOccur method to count how many time sub can be subtracted from start without going into negatives, i.e. 3 can be subtracted from 5 once.
