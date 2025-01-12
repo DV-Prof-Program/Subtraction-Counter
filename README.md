@@ -1,4 +1,4 @@
-# Dominick Vician, CEN 3024C - 16046, Software Development 1
+# Dominick Vician, CEN 2805C Advanced Java
 
 # Subtraction-Counter
 # The Subtraction Counter (aka the recursion project from my Advanced Java class) takes in two integers from the console, an initial integer referred to as start, and an integer to subtract referred to as sub.
